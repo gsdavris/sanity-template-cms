@@ -18,7 +18,7 @@ import service from './documents/service'
 
 // Object types
 import productVariant from './objects/productVariant'
-import richText from './objects/richText'
+import richText from './objects/richtext'
 import figure from './objects/figure'
 import embedHTML from './objects/embedHTML'
 import youtube from './objects/youtube'
