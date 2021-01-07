@@ -13,15 +13,15 @@ export default {
           sites: [
             {
               title: 'Sanity Studio',
-              apiId: 'xxxxx-yyyy-zzzz-xxxx-yyyyyyyy',
-              buildHookId: 'xxxyyyxxxyyyyxxxyyy',
-              name: 'sanity-gatsby-blog-20-studio',
+              apiId: '629fe729-f60f-4e40-920e-7ce05993358a',
+              buildHookId: '5ff759bcaa25d6013645d20c',
+              name: 'sanity-template-cms',
             },
             {
               title: 'Website',
               apiId: 'yyyyy-xxxxx-zzzz-xxxx-yyyyyyyy',
               buildHookId: 'yyyyxxxxxyyyxxdxxx',
-              name: 'sanity-gatsby-blog-20-web'
+              name: 'sanity-template'
             }
           ]
         }
