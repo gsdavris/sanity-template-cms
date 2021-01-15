@@ -5,7 +5,7 @@ import { FaLink }  from 'react-icons/fa';
 
 
 const hiddenDocTypes = listItem =>
-!['page', 'route', 'site-config', 'product', 'category', 'vendor', 'post', 'author', 'postCategory', 'service'].includes(
+!['location','page', 'route', 'site-config', 'product', 'category', 'vendor', 'post', 'author', 'postCategory', 'service'].includes(
   listItem.getId()
 )
 

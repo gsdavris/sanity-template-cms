@@ -13,9 +13,9 @@ export default {
         type: 'array',
         title: 'Locations',
         of: [
-          { type: 'address' },
+          { type: 'location' },
         ],
-      },    
+      },       
     ],
   };
   

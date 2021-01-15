@@ -15,6 +15,7 @@ import page from './documents/page'
 import route from './documents/route'
 import siteConfig from './documents/siteConfig'
 import service from './documents/service'
+import location from './documents/location'
 
 // Object types
 import productVariant from './objects/productVariant'
@@ -26,7 +27,6 @@ import instagramPost from './objects/instagramPost'
 import blockContent from './objects/blockContent'
 import callToAction from './objects/callToAction'
 import contactUs from './objects/contactUs'
-import address from './objects/address'
 import latestNews from './objects/latestNews'
 import contactMap from './objects/contactMap'
 import contactForm from './objects/contactForm'
@@ -70,7 +70,7 @@ export default createSchema({
     siteConfig,
     service,
     callToAction,
-    address,
+    location,
     contactUs,
     latestNews,
     contactMap,

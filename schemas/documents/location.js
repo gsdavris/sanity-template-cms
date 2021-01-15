@@ -1,7 +1,7 @@
 export default {
-    title: 'Address',
-    name: 'address',
-    type: 'object',
+    title: 'Location',
+    name: 'location',
+    type: 'document',
     fields: [
       {
         title: 'Name',
@@ -15,7 +15,7 @@ export default {
       },
       {
         name: 'streetNo', 
-        type: 'string', 
+        type: 'string',
         title: 'Street number'
       },     
       {

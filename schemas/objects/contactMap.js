@@ -14,6 +14,31 @@ export default {
         title: 'Title',
         name: 'title',
         type: 'string',
-        },        
+        },
+        {
+        title: 'Location Name',
+        name: 'name',
+        type: 'string',
+        },      
+        {
+        title: 'Street name',
+        name: 'street',
+        type: 'string',
+        },
+        {
+        name: 'streetNo', 
+        type: 'string',
+        title: 'Street number'
+        },     
+        {
+        title: 'City',
+        name: 'city',
+        type: 'string',
+        },      
+        {
+        title: 'Postal Code',
+        name: 'postal',
+        type: 'string',
+        },           
     ],
   };
